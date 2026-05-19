@@ -2,7 +2,7 @@
 
 Quantum-Safe Agentic Infrastructure can be viewed as a layered architecture.
 
-## High-Level Architecture Diagram
+## High-Level Layered Architecture
 ```mermaid
 flowchart TB
     A[Quantum-Safe Agentic Infrastructure]
